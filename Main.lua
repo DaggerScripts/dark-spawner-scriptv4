@@ -1,2 +1,2 @@
-print("https://pastefy.app/9oseVNee/raw")
-print("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua")
+https://pastefy.app/9oseVNee/raw
+https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua
